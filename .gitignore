@@ -1,0 +1,5 @@
+notes/migrations
+NotesApp/__pycache__
+venv
+notes/__pycache__
+.vscode

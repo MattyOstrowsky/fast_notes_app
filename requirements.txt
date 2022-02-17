@@ -1,0 +1,12 @@
+django
+django-cors-headers
+django-filter
+django-storages
+djangorestframework
+djangorestframework-simplejwt
+djoser
+gunicorn
+psycopg2-binary
+PyJWT
+whitenoise
+dotenv
